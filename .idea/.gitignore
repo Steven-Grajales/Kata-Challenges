@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\Steven\Downloads\0 Udemy\estudio\Go Full Stack With Spring Cloud Microservices and React JS\6. Microservice1 - Course Service\spring-boot-microservice-1-course\KataChallenges\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
